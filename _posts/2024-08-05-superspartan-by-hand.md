@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SuperSpartan by Hand
 publish_date: 2024-08-05
 category: cryptography

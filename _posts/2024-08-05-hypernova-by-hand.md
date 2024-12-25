@@ -1,4 +1,5 @@
 ---
+layout: post
 title: HyperNova by Hand
 publish_date: 2024-08-05
 category: cryptography
